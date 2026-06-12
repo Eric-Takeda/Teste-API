@@ -8,3 +8,11 @@
 <p>
   Objetivo: Aprender a manipular APIs
 </p>
+
+<footer>
+Link do Projeto:
+<p>https://eric-takeda.github.io/Teste-API/</p>
+
+ Endpoint para teste:
+ <p>https://brapi.dev/api/quote/list</p>
+</footer>
